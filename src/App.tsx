@@ -1,3 +1,11 @@
-export default function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
-}
+import { Home } from './pages/';
+
+const App = () => {
+  return (
+    <div className="font-Nunito h-screen bg-[#585CBA] p-20 text-white">
+      <Home />
+    </div>
+  );
+};
+
+export default App;
