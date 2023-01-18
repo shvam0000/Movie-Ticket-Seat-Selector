@@ -10,8 +10,6 @@ A web based seat booking app for movie theatres.
 
 <img src="https://github.com/shvam0000/Movie-Ticket-Seat-Selector/blob/main/asset/images/3.png" alt="User Dashboard" height="500" width="1000">
 
-<img src="https://github.com/shvam0000/Movie-Ticket-Seat-Selector/blob/main/asset/images/4.png" alt="User Dashboard" height="500" width="1000">
-
 ## 📌 Prerequisites
 
 ### 💻 System requirement :
