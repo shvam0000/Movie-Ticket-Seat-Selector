@@ -16,12 +16,6 @@ const Hero = () => {
           <div className="text-lg px-2 text-gray-300">Selected</div>
         </div>
       </div>
-      <div>
-        <h1 className="uppercase text-gray-300 px-4 py-1 border-2 border-gray-400 rounded-3xl w-fit mx-auto bg-[#585CBA]">
-          Screen
-        </h1>
-        <hr className="mt-4 mb-10" />
-      </div>
     </div>
   );
 };
