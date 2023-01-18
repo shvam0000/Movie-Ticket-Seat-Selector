@@ -1,46 +1,61 @@
-# Getting Started with Create React App
+## 💡 Project Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web based seat booking app for movie theatres.
 
-## Available Scripts
+## 📺 Preview
 
-In the project directory, you can run:
+<img src="https://github.com/shvam0000/Movie-Ticket-Seat-Selector/blob/main/asset/images/1.png" alt="User Dashboard" height="500" width="1000">
 
-### `npm start`
+<img src="https://github.com/shvam0000/Movie-Ticket-Seat-Selector/blob/main/asset/images/2.png" alt="User Dashboard" height="500" width="1000">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src="https://github.com/shvam0000/Movie-Ticket-Seat-Selector/blob/main/asset/images/3.png" alt="User Dashboard" height="500" width="1000">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img src="https://github.com/shvam0000/Movie-Ticket-Seat-Selector/blob/main/asset/images/4.png" alt="User Dashboard" height="500" width="1000">
 
-### `npm test`
+## 📌 Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 💻 System requirement :
 
-### `npm run build`
+1. Any system with basic configuration.
+2. Operating System : Any (Windows / Linux / Mac).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 💿 Software requirement :
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Updated browser
+2. Node.js installed (If not download it [here](https://nodejs.org/en/download/)).
+3. Any text editor of your choice.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation 🔧
 
-### `npm run eject`
+### Client
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Client directory
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install dependencies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+$ yarn install
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+or
 
-## Learn More
+```
+$ npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Start the website development server
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+$ yarn start
+```
+
+or
+
+```
+$ npm run start
+```
+
+## :gear: Maintainers
+
+| <p align="center">![Shivam Shekhar](https://github.com/shvam0000.png?size=128)<br>[Shivam Shekhar](https://github.com/shvam0000)</p>
+|
